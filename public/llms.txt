@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הפוך את העסק שלך לדיגיטלי עם אתר מכירתי מקצועי ללא סליקה. פתרונות אתרים מותאמים אישית לבעלי עסקים קטנים בישראל. התחל עוד היום!
+
+### אודות
+https://example.com/about
+גלה איך ספייסים בע&quot;מ עוזרת לעסקים קטנים לצמוח באינטרנט. אנחנו מתמחים בבניית אתרים מכירתיים ייעודיים שמביאים תוצאות. למד עלינו עוד!
+
+### שאלות נפוצות
+https://example.com/faq
+שאלות ותשובות על בניית אתר מכירתי: עלויות, תהליך הקמה, ניהול תוכן ועוד. קבל תשובות ברורות לכל השאלות שלך על פתרונות אתרים לעסקים.
+
+### צור קשר
+https://example.com/contact
+מוכן להתחיל? צור קשר עם ספייסים בע&quot;מ לייעוץ חינם ובניית אתר מכירתי מותאם אישית. נשמח לענות על כל שאלה ולהתאים לך פתרון מנצח!
+
+### Products
+https://example.com/products
+המוצרים שלנו - ספייסים בע"מ
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ספייסים בע"מ
+
+### Category
+https://example.com/category/:slug
+מוצרים - ספייסים בע"מ
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
